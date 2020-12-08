@@ -8,7 +8,7 @@ const IndexPage = () => {
 
   return(
   <>
-  	<SEO title="fresh"/>
+  	<SEO title="Gatsby Demo"/>
     <Default></Default>
     <BlogList></BlogList>
   </>

@@ -44,6 +44,7 @@ const SideBar = () => {
       <li className="menu-items"><Link to="/about" className="menu-links" activeClassName="active">About</Link></li>
       <li className="menu-items"><Link to="/projects" className="menu-links" activeClassName="active">Projects</Link></li>
       <li className="menu-items"><Link to="/contact" className="menu-links" activeClassName="active">Contact</Link></li>
+      <li className="menu-items"><Link to="/merch" className="menu-links" activeClassName="active">Merch</Link></li>
     </menu>
 
     <div className="btn-group">
